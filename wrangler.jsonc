@@ -6,12 +6,12 @@
   "compatibility_date": "2026-11-18",
 
   "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "ai-report-db",
-      "database_id": "YOUR_DATABASE_ID"
-    }
-  ],
+  {
+    "binding": "ai_report_db",
+    "database_name": "ai-report-db",
+    "database_id": "8c549ce4-22c3-41f5-873d-fa85aa8a0135"
+  }
+],
 
   "observability": {
     "enabled": true
